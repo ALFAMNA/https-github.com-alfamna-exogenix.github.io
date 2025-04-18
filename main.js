@@ -1,0 +1,1 @@
+document.getElementById('root').innerText = 'Painel Exogenix.ia Online, Alpha!';
